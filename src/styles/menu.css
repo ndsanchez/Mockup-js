@@ -1,0 +1,14 @@
+.selected{
+    background-color: #0B3538;
+}
+.no-selected{
+    background-color: #ffffff;
+}
+.letter-selected{
+    font-weight: bold;
+    color: #ececec; 
+}
+.letter-no-selected{
+    font-weight: bold;
+    color: #5C5858; 
+}
